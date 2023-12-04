@@ -29,11 +29,8 @@ This Java console game is a text-based version of the popular quiz show "Who Wan
 4. Goal: answer all questions correctly and win!
 
 
-(Include screenshots of your game in action, if applicable.)
 
-## Author
 
-[Emmanuel JOHN]
 
 ## License
 
