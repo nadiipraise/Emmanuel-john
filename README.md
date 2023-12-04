@@ -1,10 +1,5 @@
 # Emmanuel-john
-who wants to be a Miliioniare CLI java game
-Certainly! Below is a template for your README file. Feel free to customize it according to your preferences.
-
----
-
-# Who Wants to Be a Millionaire Game
+# Who Wants to Be a Millionaire Game Cli clone
 
 Welcome to the "Who Wants to Be a Millionaire" console game implemented in Java.
 
@@ -38,7 +33,7 @@ This Java console game is a text-based version of the popular quiz show "Who Wan
 
 ## Author
 
-[Your Name]
+[Emmanuel JOHN]
 
 ## License
 
